@@ -3,5 +3,10 @@
     "sha256": "5dbdd7a2a563cde7ff1ea5a77de5bdc63ba6095cbfb6ba98ec53246ae5ff0ab6",
     "chunkCount": 616,
     "ingestedAt": "2026-09-01T05:53:26.783Z"
+  },
+  "COAL/Art Of Intel x86 Assembly.txt": {
+    "sha256": "29936614befb5023c0cff543d30213f3f6675616f4581e42e9a1d1c587ec62e3",
+    "chunkCount": 1255,
+    "ingestedAt": "2026-09-02T15:37:32.273Z"
   }
 }

@@ -23,5 +23,15 @@
     "sha256": "6f21c4827299713d1257caa9234b47db1f8477d52a353eaea61d1fccacae861e",
     "chunkCount": 5,
     "ingestedAt": "2026-09-02T19:03:36.326Z"
+  },
+  "COAL/Computer Organization with ARM64.txt": {
+    "sha256": "e54f803160f590ac251987cf6b9e97e70e76f1de4667a82dc1f82ca4cce540f1",
+    "chunkCount": 251,
+    "ingestedAt": "2026-09-02T22:07:16.830Z"
+  },
+  "COAL/Computer Systems.txt": {
+    "sha256": "e8034fbcc0ae639feec102f870779cc38aa2a433f4c7217c3fb564773e718b1f",
+    "chunkCount": 136,
+    "ingestedAt": "2026-09-02T22:07:50.939Z"
   }
 }

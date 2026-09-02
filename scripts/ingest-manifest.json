@@ -8,5 +8,20 @@
     "sha256": "29936614befb5023c0cff543d30213f3f6675616f4581e42e9a1d1c587ec62e3",
     "chunkCount": 1255,
     "ingestedAt": "2026-09-02T15:37:32.273Z"
+  },
+  "COAL/Assembly Language - Student version.txt": {
+    "sha256": "5c1c34482d35cdf62e40937f300c6c431ec3a0d866b77dbb3c09acd6886498de",
+    "chunkCount": 50,
+    "ingestedAt": "2026-09-02T19:02:43.899Z"
+  },
+  "COAL/Assembly Language Programming Notes by Bial Hashmi.txt": {
+    "sha256": "0bfcfb78f5c3a6dd8a11b695cd41991df74d6d15102b97440658dfacb6d35523",
+    "chunkCount": 198,
+    "ingestedAt": "2026-09-02T19:03:35.492Z"
+  },
+  "COAL/COAL Lab Manual.txt": {
+    "sha256": "6f21c4827299713d1257caa9234b47db1f8477d52a353eaea61d1fccacae861e",
+    "chunkCount": 5,
+    "ingestedAt": "2026-09-02T19:03:36.326Z"
   }
 }

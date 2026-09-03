@@ -33,5 +33,20 @@
     "sha256": "e8034fbcc0ae639feec102f870779cc38aa2a433f4c7217c3fb564773e718b1f",
     "chunkCount": 136,
     "ingestedAt": "2026-09-02T22:07:50.939Z"
+  },
+  "COAL/DCAP206_INTRODUCTION_TO_COMPUTER_ORGANIZATION_AND_ARCHITECTURE_DCAP502_COMPUTER_ORGANIZATION_AND_ARCHITECTURE.txt": {
+    "sha256": "a4b6c325eb920b3e89a4a0782133e35392f367e8c502d36e7e0ac7baf87e2794",
+    "chunkCount": 181,
+    "ingestedAt": "2026-09-03T00:49:31.573Z"
+  },
+  "COAL/Introduction to Assembly Language Programming_ From Soup to Nuts_.txt": {
+    "sha256": "9ee0b5e4fc4be91a926dfb43e7f4e6d9a451ee0895aab53f92c9d16039d24d20",
+    "chunkCount": 138,
+    "ingestedAt": "2026-09-03T00:50:05.876Z"
+  },
+  "COAL/MIPStextSMv11 (1).txt": {
+    "sha256": "9cf0a5811e610331069ba5f96a8205583a245fec2d8e946747904f05f71a041b",
+    "chunkCount": 66,
+    "ingestedAt": "2026-09-03T00:50:23.763Z"
   }
 }

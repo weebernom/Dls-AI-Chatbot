@@ -53,5 +53,25 @@
     "sha256": "9c62ab1fe7f6e6918058e423e49a0ee209f521af19e2eee2dfadfef826229758",
     "chunkCount": 745,
     "ingestedAt": "2026-10-01T01:43:06.905Z"
+  },
+  "COAL/ProgrammingGroundUp-1-0-booksize.txt": {
+    "sha256": "ea9501d91c546b967d17daeb1fe19e8068f8fe6505ef0dafc03f9b575ed843c5",
+    "chunkCount": 163,
+    "ingestedAt": "2026-10-01T07:57:06.150Z"
+  },
+  "COAL/The Art of Assembly Language 2nd Edition (Randall Hyde).txt": {
+    "sha256": "26e9228cc74c50377b7f05e633ec1b7a1d184d74b9994a65b32693de6f49cb64",
+    "chunkCount": 557,
+    "ingestedAt": "2026-10-01T08:00:03.315Z"
+  },
+  "COAL/[Mostafa_Abd-El-Barr__Hesham_El-Rewini]_Fundamenta(BookZZ.org).txt": {
+    "sha256": "30290d729f4c8a81e8b15186feaa2be0b70eeba0352728f446ddb4c8d3460d07",
+    "chunkCount": 216,
+    "ingestedAt": "2026-10-01T08:01:08.051Z"
+  },
+  "COAL/assembly64.txt": {
+    "sha256": "9d6b42dbac0bd3411d0cb7b075fe24921a1306aa9deda5d30b0be9051f7d87b5",
+    "chunkCount": 179,
+    "ingestedAt": "2026-10-01T08:01:57.797Z"
   }
 }

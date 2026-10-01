@@ -123,5 +123,15 @@
     "sha256": "316cf968d8616ecec2c89fdeb9c4fcbf03462b72610c0572fc22e844d8c73368",
     "chunkCount": 221,
     "ingestedAt": "2026-10-01T14:59:23.840Z"
+  },
+  "DLD/DCAP108_DIGITAL_CIRCUITS_AND_LOGIC_DESIGNS.txt": {
+    "sha256": "ab95ea71cd96a50f02a58f48ce3e423535fa2c8ce9f78f945de3c408056c8fd6",
+    "chunkCount": 204,
+    "ingestedAt": "2026-10-01T20:02:30.774Z"
+  },
+  "DLD/DIGITAL LOGIC DESIGN (R17A0461).txt": {
+    "sha256": "096d44c35a5b9f6faf9c34df8e2af09f0159b4828670924223de0432fbdd8ae4",
+    "chunkCount": 60,
+    "ingestedAt": "2026-10-01T20:02:47.442Z"
   }
 }

@@ -48,5 +48,10 @@
     "sha256": "9cf0a5811e610331069ba5f96a8205583a245fec2d8e946747904f05f71a041b",
     "chunkCount": 66,
     "ingestedAt": "2026-09-03T00:50:23.763Z"
+  },
+  "COAL/MK.Computer.Organization.and.Design.4th.Edition.Oct.2011.txt": {
+    "sha256": "9c62ab1fe7f6e6918058e423e49a0ee209f521af19e2eee2dfadfef826229758",
+    "chunkCount": 745,
+    "ingestedAt": "2026-10-01T01:43:06.905Z"
   }
 }

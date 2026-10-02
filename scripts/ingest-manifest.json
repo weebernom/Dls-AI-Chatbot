@@ -143,5 +143,20 @@
     "sha256": "1788ad2c5017c5ed28ba415e6d81c85f217bf1a532f0fe92cfbc6182bc01c5e8",
     "chunkCount": 465,
     "ingestedAt": "2026-10-02T18:51:37.542Z"
+  },
+  "DLD/Digital Design Principles And Practices - Wakerly.txt": {
+    "sha256": "70ce1704c6db4cb48e9099b16653da1b185c299ec419683e73ff9992af2a939e",
+    "chunkCount": 809,
+    "ingestedAt": "2026-10-02T22:43:35.211Z"
+  },
+  "DLD/Digital Logic and Computer Design. (M. Morris Mano.) (Z-Library).txt": {
+    "sha256": "7e4e6542ac91e3129a42c1fdbffb75105c40ce8e7441731310376b4f3976d115",
+    "chunkCount": 523,
+    "ingestedAt": "2026-10-02T22:46:17.613Z"
+  },
+  "DLD/DigitalLogic.txt": {
+    "sha256": "55d029911fd96869ffce76fa1ade4ed647273d0d41fe7e8eca04169071fe41fd",
+    "chunkCount": 62,
+    "ingestedAt": "2026-10-02T22:46:34.446Z"
   }
 }

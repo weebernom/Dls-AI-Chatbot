@@ -133,5 +133,15 @@
     "sha256": "096d44c35a5b9f6faf9c34df8e2af09f0159b4828670924223de0432fbdd8ae4",
     "chunkCount": 60,
     "ingestedAt": "2026-10-01T20:02:47.442Z"
+  },
+  "DLD/DIGITAL PRINCIPLES AND APPLICATION BY LEACH & MALVINO.txt": {
+    "sha256": "2bdf97213b503f14c60d3f538bcf0fd5752a14efb9fda5881909de9af44e0d1f",
+    "chunkCount": 503,
+    "ingestedAt": "2026-10-02T18:49:09.744Z"
+  },
+  "DLD/David_Harris_Sarah_Harris-Digital_Design_and_Computer_Architecture-EN.txt": {
+    "sha256": "1788ad2c5017c5ed28ba415e6d81c85f217bf1a532f0fe92cfbc6182bc01c5e8",
+    "chunkCount": 465,
+    "ingestedAt": "2026-10-02T18:51:37.542Z"
   }
 }
